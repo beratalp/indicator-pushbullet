@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Icon = /opt/extras.ubuntu.com/pushbullet-indicator/share/pushbullet-indicator/icons/pushbullet-indicator.svg
+Exec = /opt/extras.ubuntu.com/pushbullet-indicator/bin/pushbullet-indicator
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[es_ES]=pushbullet-indicator-autostart.desktop
+Name=pushbullet-indicator-autostart
+Comment[es_ES]=PushBullet-Indicator official shortcut
+Comment=PushBullet-Indicator official shortcut

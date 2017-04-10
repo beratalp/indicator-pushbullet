@@ -1,0 +1,14 @@
+es
+zh_TW
+bg
+pt_BR
+ca
+pl
+fi
+fr
+ru
+it
+nb
+zh_CN
+de
+ro

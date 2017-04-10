@@ -1,0 +1,81 @@
+pushbullet-indicator (0.6.1-0extras14.04.0) truty; urgency=medium
+
+  * Added icon to reply dialog
+  * Answer from Hangout, Line and Facebook messenger
+  * Updated translations
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Tue, 07 Apr 2015 21:30:46 +0200
+
+pushbullet-indicator (0.6.0-0extras14.04.1) trusty; urgency=medium
+
+  * Universal copy & paste
+  * Updated api configuration
+  * Updated send dialog
+  * Send SMS from pushbullet
+  * Answer from Telegram, Whatsapp and messages
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 28 Mar 2015 07:24:14 +0100
+
+pushbullet-indicator (0.5.0-0extras14.04.2) trusty; urgency=medium
+
+  * Universal paste to Ubuntu (images and text), pending copy...
+  * Improved websocket control
+
+ -- Lorenzo Carbonell <atareao@trusty>  Sat, 30 Aug 2014 09:28:07 +0200
+
+pushbullet-indicator (0.4.0-0extras14.04.8) trusty; urgency=medium
+
+  * Updated to v2 of pushbullet
+  * Using oAuth to start pushbullet-indicator
+  * Fixed a bug with autostart
+  * Send bullets to contacts
+  * Recieve bullets from contacts
+  * Recieve bullets from devices
+  * Create ubuntu device to recive bullets
+  * Show last recieved push
+  * If you dont enter a name for your device raise message
+  * Push mirrorred notifications
+  * Added python3-pil dependency
+  * Improved temporary icon management
+  * Fixed a bug with python3-ws4py dependecy
+
+ -- Lorenzo Carbonell <atareao@trusty>  Wed, 16 Jul 2014 06:31:44 +0200
+
+pushbullet-indicator (0.3.4-0extras14.04.0) trusty; urgency=low
+
+  * Fixed some minimal bugs
+  * Divided package in pushbullet-commons and this
+  * Added pushbullet-commons as dependecy
+
+ -- Lorenzo Carbonell <atareao@trusty>  Sun, 11 May 2014 22:21:42 +0200
+
+pushbullet-indicator (0.3.2-0extras14.04.0) trusty; urgency=medium
+
+  * Changed Action Dialog to show images on tabs
+  * Fixed a minimal bug
+
+ -- Lorenzo Carbonell <atareao@trusty>  Thu, 08 May 2014 20:21:39 +0200
+
+pushbullet-indicator (0.2.0-0extras14.04.2) trusty; urgency=medium
+
+  * A lot of improvements:
+  * - Using dbus
+  * - Using asyncronous pushing sending
+  * - Sorted items in menu
+  * - Autostart option
+  * - Animated icon when pushin
+
+ -- Lorenzo Carbonell <atareao@trusty>  Sun, 04 May 2014 10:02:23 +0200
+
+pushbullet-indicator (0.1.0-0extras14.04.2) trusty; urgency=medium
+
+  * Added dependencies (python3-requests)
+  * Fixed .config directory creation
+
+ -- Lorenzo Carbonell <atareao@trusty>  Fri, 02 May 2014 15:28:28 +0200
+
+pushbullet-indicator (0.1.0-0extras14.04.1) trusty; urgency=low
+
+  * First release
+
+ -- Lorenzo Carbonell <atareao@trusty>  Fri, 02 May 2014 10:40:01 +0200

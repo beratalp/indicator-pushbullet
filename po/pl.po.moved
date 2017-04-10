@@ -1,0 +1,280 @@
+# Polish translation for pushbullet-indicator
+# Copyright (c) 2015 Rosetta Contributors and Canonical Ltd 2015
+# This file is distributed under the same license as the pushbullet-indicator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: pushbullet-indicator 0.6.1\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2015-04-07 21:37+0200\n"
+"PO-Revision-Date: 2015-04-06 14:58+0000\n"
+"Last-Translator: supra <rserba@gmail.com>\n"
+"Language-Team: Polish <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"X-Generator: Launchpad (build 17413)\n"
+"X-Launchpad-Export-Date: 2015-04-07 19:32+0000\n"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/answer_dialog.py:82
+msgid "Answer"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/sms_dialog.py:38
+msgid "Send a SMS"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/sms_dialog.py:51
+msgid "Select mobile"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/sms_dialog.py:65
+msgid "Send a SMS to"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/sms_dialog.py:71
+msgid "Message"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:205
+msgid "File recieved"
+msgstr "Odebrano plik"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:209
+msgid "Link recieved"
+msgstr "Odebrano odnośnik"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:213
+msgid "Note recieved"
+msgstr "Odebrano notkę"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:231
+msgid "A push mirrored"
+msgstr "Push zdublowany"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:290
+msgid "A push copied"
+msgstr "Skopiowano push"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:305
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:316
+msgid "Image copied"
+msgstr "Skopiowano obrazek"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:319
+msgid "Text copied"
+msgstr "Skopiowano tekst"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:440
+msgid "Homepage..."
+msgstr "Strona główna..."
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:441
+msgid "Get help online..."
+msgstr "Uzyskaj pomoc w sieci..."
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:442
+msgid "Translate this application..."
+msgstr "Przetłumacz ten program..."
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:443
+msgid "Report a bug..."
+msgstr "Powiadom o błędzie..."
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:445
+msgid "Homepage"
+msgstr "Strona główna"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:446
+msgid "Follow us in Twitter"
+msgstr "Obserwuj nas na Twitterze"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:447
+msgid "Follow us in Google+"
+msgstr "Obserwuj nas w Google+"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:448
+msgid "Follow us in Facebook"
+msgstr "Obserwuj nas na Facebooku"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:461
+msgid "About"
+msgstr "O..."
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:485
+msgid "Send push"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:490
+msgid "Send sms"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:500
+msgid "Show last push"
+msgstr "Pokaż ostatni push"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:509
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:60
+msgid "Preferences"
+msgstr "Preferencje"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:514
+msgid "Help"
+msgstr "Pomoc"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:523
+msgid "Exit"
+msgstr "Wyjdź"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/pushbullet_indicator.py:634
+msgid "An indicator for PushBullet"
+msgstr "Wskaźnik dla PushBullet"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:75
+msgid "Main"
+msgstr "Główny"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:81
+msgid "Allow access to PushBullet"
+msgstr "Daj uprawnienia dla PushBullet"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:87
+msgid "Universal copy & paste"
+msgstr "Uniwersalne kopiowanie i wklejanie"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:93
+msgid "Autostart"
+msgstr "Autostart"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:99
+msgid "Icon light"
+msgstr "Jasna ikonka"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:108
+msgid "Reply"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:114
+msgid "Reply messages"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:121
+msgid "Reply Whatsapp"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:128
+msgid "Reply Telegram"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:135
+msgid "Reply Hangout"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:142
+msgid "Reply Facebook"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/src/preferences_dialog.py:149
+msgid "Reply Line"
+msgstr ""
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:13
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:14
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:16
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:17
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:18
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:19
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:20
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:21
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:22
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:23
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:24
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:25
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:26
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:27
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:28
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:29
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:30
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:31
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:32
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:33
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:34
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:35
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:36
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:37
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:38
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:39
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:40
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:41
+msgid "PushBullet-Indicator"
+msgstr "Wskaźnik PushBullet"
+
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:15
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:42
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:43
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:44
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:45
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:46
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:47
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:48
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:49
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:50
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:51
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:52
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:53
+#: /home/atareao/Copy/PROGRAMACION/Python/trusty/pushbullet-indicator/extras-pushbullet-indicator.desktop.in:54
+msgid "An indicator for working with pushbullet"
+msgstr "Wskaźnik działający z PushBullet"
+
+#~ msgid "Drop one file on me!"
+#~ msgstr "Upuść plik na mnie!"
+
+#~ msgid "Please choose a directory to download the file"
+#~ msgstr "Proszę, wybierz lokalizacje, by pobrać plik"
+
+#~ msgid "(Click on me to download file)"
+#~ msgstr "(Kliknij na mnie, by pobrać plik)"
+
+#~ msgid "PushBullet action"
+#~ msgstr "Działanie PushBullet"
+
+#~ msgid "Title"
+#~ msgstr "Tytuł"
+
+#~ msgid "Note"
+#~ msgstr "Notka"
+
+#~ msgid "Link"
+#~ msgstr "Odnośnik"
+
+#~ msgid "File"
+#~ msgstr "Plik"
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "Items separated by carriage return"
+#~ msgstr "Pozycje oddzielone końcową linią"
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Address recieved"
+#~ msgstr "Odebrano adres"
+
+#~ msgid "List recieved"
+#~ msgstr "Odebrano listę"
+
+#~ msgid "You must set a name for your device"
+#~ msgstr "Musisz ustawić nazwę dla Twojego urządzenia"
+
+#~ msgid "Device"
+#~ msgstr "Urządzenie"
+
+#~ msgid "iden"
+#~ msgstr "Identyfikator"
+
+#~ msgid "Name"
+#~ msgstr "Nazwa"

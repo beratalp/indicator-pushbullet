@@ -1,0 +1,23 @@
+Source: pushbullet-indicator
+Section: utils
+Priority: extra
+Maintainer: Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>
+Build-Depends: debhelper (>= 8), python, python-distutils-extra, python-polib
+Standards-Version: 3.9.3
+Homepage: http://www.atareao.es
+
+Package: pushbullet-indicator
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends},
+	gir1.2-gtk-3.0,
+	gir1.2-gdkpixbuf-2.0,
+	gir1.2-appindicator3-0.1,
+	gir1.2-notify-0.7,
+	python3-dbus,
+	python3-requests,
+	python3-pil,
+	python3-ws4py,
+	pushbullet-commons
+Description: An indicator for working with PushBullet
+ With PushBullet-Indicator you can send addresses, files, links, lists,
+ and notes to the configurated devices on PushBullet
