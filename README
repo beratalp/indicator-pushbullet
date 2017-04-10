@@ -1,31 +1,9 @@
 ==================
-Touchpad-Indicator
+Indicator-Pushbullet
 ==================
 
-Touchpad-Indicator an indicator to change the status of the touchpad
+Forked from https://launchpad.net/pushbullet-indicator/
 
-For more information, please visit our website:
-http://launchpad.net/touchpad-indicator/
-or
-http://www.atareao.es
+Tested on Unity
 
-============
-Requirements
-============
 
-Required dependencies:
-
-	gir1.2-gtk-3.0,
-	gir1.2-gdkpixbuf-2.0,
-	gir1.2-appindicator3-0.1,
-	gir1.2-notify-0.7,
-	python-udev,
-	python-dbus
-
-========
-Download
-========
-
-Download the package:
-
-    $ bzr branch lp:touchpad-indicator
